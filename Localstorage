@@ -1,8 +1,1 @@
-{
-  "UGrightSlideTips": "0",
-  "UGPHONE-MQTT": "{\"is_visitor\":1,\"visitor_id\":5851446,\"login_id\":\"visitor-ad30ef772f5aebb1705d68a494ce9752\",\"access_token\":\"visitor-b30a0336afb4059e317b08bcf0acc75d20250610135454\",\"access_key\":\"b8b427fa2b223d7eb22c9f07e6d299ff\",\"access_secret\":\"b7b8b4270d85ff50dd7c8defeb71fcda\"}",
-  "UGPHONE-Token": "visitor-b30a0336afb4059e317b08bcf0acc75d20250610135454",
-  "ugPhoneLang": "vi",
-  "ugBrowserId": "9ca902c646ca86eae89fde715e58c682",
-  "UGPHONE-ID": "visitor-ad30ef772f5aebb1705d68a494ce9752"
-}
+
