@@ -1,9 +1,9 @@
 [
   {
     "order": 1,
-    "name": "AUTO-z6kiQk0X",
-    "time": 1749607827052,
-    "expireAt": 1749643827052,
+    "name": "UploadFromLocal",
+    "time": 1749620401609,
+    "expireAt": 1749656401609,
     "data": {
       "ugPhoneLang": "vi",
       "ugBrowserId": "b3749ed36fa64677ba7dee90ad5dcccf",
@@ -19,7 +19,8 @@
       "UGsuspendedBallPosition": "{\"x\":0,\"y\":181,\"isRotate\":false}",
       "UGPhoneClipboard": "[\"loadstring(game:HttpGet(\\\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\\\", true))()\",\"https://discord.com/api/webhooks/1377172144336666655/xn6U4MPufpyHa0wyqzng6OmCcw2pbfZVGhGGrBDGLn7w0DXmBfMjoI9pf33WfHXpJ7JR\",\"CsqtapgNMRwkSqiCaYZWpAPbyoCjCpGk\",\"loadstring(game:HttpGet(\\\"https://scripts.alchemyhub.xyz\\\"))()\",\"https://anotepad.com/notes/cxj22m4i\"]",
       "UGPHONE_SAVED_ACCOUNTS": "{\"Tự động lưu gần nhất\":{\"time\":1749536017232,\"data\":{\"UGrightSlideTips\":\"0\",\"UGPHONE-MQTT\":\"{\\\"is_visitor\\\":1,\\\"visitor_id\\\":5851446,\\\"login_id\\\":\\\"visitor-ad30ef772f5aebb1705d68a494ce9752\\\",\\\"access_token\\\":\\\"visitor-b30a0336afb4059e317b08bcf0acc75d20250610135454\\\",\\\"access_key\\\":\\\"b8b427fa2b223d7eb22c9f07e6d299ff\\\",\\\"access_secret\\\":\\\"b7b8b4270d85ff50dd7c8defeb71fcda\\\"}\",\"FETCH_DARK_SETTING\":\"{\\\"__stay_user_id_\\\":\\\"1a0499ba-6081-494c-a5fd-9edd9e38ab24\\\",\\\"siteListDisabled\\\":[],\\\"toggleStatus\\\":\\\"off\\\",\\\"darkState\\\":\\\"clean_up\\\",\\\"switchOffHostnameList\\\":[],\\\"stay_theme\\\":{\\\"contrast\\\":100,\\\"textStroke\\\":0,\\\"scrollbarColor\\\":\\\"auto\\\",\\\"lightSchemeBackgroundColor\\\":\\\"#dcdad7\\\",\\\"lightSchemeTextColor\\\":\\\"#181a1b\\\",\\\"styleSystemControls\\\":false,\\\"sepia\\\":0,\\\"stylesheet\\\":\\\"\\\",\\\"immediateModify\\\":false,\\\"lightColorScheme\\\":\\\"Default\\\",\\\"useFont\\\":false,\\\"darkColorScheme\\\":\\\"Default\\\",\\\"selectionColor\\\":\\\"auto\\\",\\\"fontFamily\\\":\\\"Segoe UI\\\",\\\"darkSchemeBackgroundColor\\\":\\\"#181a1b\\\",\\\"grayscale\\\":0,\\\"darkSchemeTextColor\\\":\\\"#e8e6e3\\\",\\\"engine\\\":\\\"dynamicTheme\\\",\\\"brightness\\\":100,\\\"mode\\\":1}}\",\"UGPHONE-Token\":\"visitor-b30a0336afb4059e317b08bcf0acc75d20250610135454\",\"ugPhoneLang\":\"vi\",\"ugBrowserId\":\"9ca902c646ca86eae89fde715e58c682\",\"UGPHONE-ID\":\"visitor-ad30ef772f5aebb1705d68a494ce9752\"},\"order\":1,\"date\":\"13:13:37, 10/6/2025\"}}",
-      "FETCH_DARK_SETTING": "{\"__stay_user_id_\":\"1a0499ba-6081-494c-a5fd-9edd9e38ab24\",\"siteListDisabled\":[],\"toggleStatus\":\"off\",\"darkState\":\"clean_up\",\"switchOffHostnameList\":[],\"stay_theme\":{\"contrast\":100,\"textStroke\":0,\"scrollbarColor\":\"auto\",\"lightSchemeBackgroundColor\":\"#dcdad7\",\"lightSchemeTextColor\":\"#181a1b\",\"styleSystemControls\":false,\"sepia\":0,\"stylesheet\":\"\",\"immediateModify\":false,\"lightColorScheme\":\"Default\",\"useFont\":false,\"darkColorScheme\":\"Default\",\"selectionColor\":\"auto\",\"fontFamily\":\"Segoe UI\",\"darkSchemeBackgroundColor\":\"#181a1b\",\"grayscale\":0,\"darkSchemeTextColor\":\"#e8e6e3\",\"engine\":\"dynamicTheme\",\"brightness\":100,\"mode\":1}}"
+      "FETCH_DARK_SETTING": "{\"__stay_user_id_\":\"1a0499ba-6081-494c-a5fd-9edd9e38ab24\",\"siteListDisabled\":[],\"toggleStatus\":\"off\",\"darkState\":\"clean_up\",\"switchOffHostnameList\":[],\"stay_theme\":{\"contrast\":100,\"textStroke\":0,\"scrollbarColor\":\"auto\",\"lightSchemeBackgroundColor\":\"#dcdad7\",\"lightSchemeTextColor\":\"#181a1b\",\"styleSystemControls\":false,\"sepia\":0,\"stylesheet\":\"\",\"immediateModify\":false,\"lightColorScheme\":\"Default\",\"useFont\":false,\"darkColorScheme\":\"Default\",\"selectionColor\":\"auto\",\"fontFamily\":\"Segoe UI\",\"darkSchemeBackgroundColor\":\"#181a1b\",\"grayscale\":0,\"darkSchemeTextColor\":\"#e8e6e3\",\"engine\":\"dynamicTheme\",\"brightness\":100,\"mode\":1}}",
+      "UGPHONE_SAVED_LIST": "[]"
     }
   }
 ]
